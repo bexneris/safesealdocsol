@@ -1,4 +1,4 @@
-// SafeSeal Document Solutions — shared site behavior
+// Safeseal Document Solutions — shared site behavior
 
 document.addEventListener("DOMContentLoaded", function () {
   // Mobile nav toggle
